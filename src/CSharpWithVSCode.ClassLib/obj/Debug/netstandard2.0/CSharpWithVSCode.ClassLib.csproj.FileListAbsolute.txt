@@ -1,0 +1,9 @@
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/bin/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.deps.json
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/bin/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/bin/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.pdb
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.csprojAssemblyReference.cache
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.csproj.CoreCompileInputs.cache
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.AssemblyInfoInputs.cache
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.AssemblyInfo.cs
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.pdb

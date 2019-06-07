@@ -1,0 +1,14 @@
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.deps.json
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.runtimeconfig.json
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.runtimeconfig.dev.json
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.pdb
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ClassLib.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ClassLib.pdb
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.csprojAssemblyReference.cache
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.AssemblyInfoInputs.cache
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.AssemblyInfo.cs
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.csproj.CopyComplete
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.pdb

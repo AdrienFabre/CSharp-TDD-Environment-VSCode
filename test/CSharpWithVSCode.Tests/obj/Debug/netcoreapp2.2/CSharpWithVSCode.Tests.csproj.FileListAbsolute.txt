@@ -1,0 +1,17 @@
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/bin/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.deps.json
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/bin/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.runtimeconfig.json
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/bin/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.runtimeconfig.dev.json
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/bin/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/bin/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.pdb
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ClassLib.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ClassLib.pdb
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/obj/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.csprojAssemblyReference.cache
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/obj/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.csproj.CoreCompileInputs.cache
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/obj/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.AssemblyInfoInputs.cache
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/obj/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.AssemblyInfo.cs
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/obj/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.csproj.CopyComplete
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/obj/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.dll
+/home/adrien/Projects/dotnet/CSharpWithVSCode/test/CSharpWithVSCode.Tests/obj/Debug/netcoreapp2.2/CSharpWithVSCode.Tests.pdb
